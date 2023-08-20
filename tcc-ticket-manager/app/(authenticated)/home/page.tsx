@@ -1,5 +1,5 @@
 import styles from './style.module.css'
-import TextBox from '@/components/TextBox/index'
+import TextBox from '@/components/TextBox'
 
 
 export default function home() {
